@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Efraín Hernández - Frontend Developer](https://i.imgur.com/QcC82KX.png "Efraín Hernández - Frontend Developer")](https://i.imgur.com/QcC82KX.png "Efraín Hernández - Frontend Developer")
+## Frontend Developer 🚀
+Me encanta crear y dar estructura con **HTML**, hacer mágia  con **CSS** y dar vida a proyectos con **JavaScript.**  👨‍💻
 
-<!--
-**efrainhgmx/efrainhgmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta aprender y enseñar cosas, además de que soy un amante de la lectura y tecnología!
 
-Here are some ideas to get you started:
+#### Donde me puedes encontrar.
+> Personal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Puedes saber más de mi en mi [LinkedIn](https://www.linkedin.com/in/efrainhgmx "LinkedIn")
+
+- Leo, comparto y me inspiro en  [Twitter](https://www.twitter.com/EfrainHGLive "Twitter")
+
+- Me gusta compartir e inspirar en  [Instagram](https://www.instagram.com/efrainhgmx/ "Instagram")
+
+##### 🤙 Contáctame. Me encantaria crear grandes cosas contigo!
