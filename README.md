@@ -13,4 +13,4 @@ Me gusta aprender y enseñar cosas, además de que soy un amante de la lectura y
 
 - Me gusta compartir e inspirar en  [Instagram](https://www.instagram.com/efrainhgmx/ "Instagram")
 
-##### 🤙 Contáctame. Me encantaria crear grandes cosas contigo!
+##### 🤙 **Contáctame. Me encantaria crear grandes cosas contigo!**
