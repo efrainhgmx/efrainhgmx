@@ -1,16 +1,19 @@
 [![Efraín Hernandez - Frontend Developer](https://i.imgur.com/oZWbifm.png "Efraín Hernandez - Frontend Developer")](https://i.imgur.com/oZWbifm.png "Efraín Hernandez - Frontend Developer")
-## Software engineer  | Frontend Developer 🚀
-Me encanta crear y dar estructura con **HTML**, hacer mágia  con **CSS** y dar vida a proyectos con **JavaScript.**  👨‍💻
+## Software Engineer  | Frontend Developer 🚀
+Hi there 👋
 
-Me gusta aprender y enseñar cosas, además de que soy un amante de la lectura y tecnología!
+I'm a software engineer with web development experience who can design and develop using the latest and most appropriate Frontend technology.
+I enjoy to code modern interfaces focused on a great user experience with better performance and accesibility.  👨‍💻
 
-#### Donde me puedes encontrar.
+I never stop learning and sharing to the community!
+
+#### You can find me on my other social networks.
 > Personal
 
-- Puedes saber más de mi en mi [LinkedIn](https://www.linkedin.com/in/efrainhgmx "LinkedIn")
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/efrainhgmx "LinkedIn")
 
-- Leo, comparto y me inspiro en  [Twitter](https://www.twitter.com/EfrainHGLive "Twitter")
+- Twitter  [Twitter](https://www.twitter.com/EfrainHGLive "Twitter")
 
-- Me gusta compartir e inspirar en  [Instagram](https://www.instagram.com/efrainhgmx/ "Instagram")
+- Instagram  [Instagram](https://www.instagram.com/efrainhgmx/ "Instagram")
 
-##### 🤙 **Contáctame. Me encantaria crear grandes cosas contigo!**
+##### 🤙 **Send me a message for a work collaboration.**
