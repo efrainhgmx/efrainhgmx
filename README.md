@@ -10,10 +10,10 @@ I never stop learning and sharing to the community!
 #### You can find me on my other social networks.
 > Personal
 
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/efrainhgmx "LinkedIn")
+- [LinkedIn](https://www.linkedin.com/in/efrainhgmx "LinkedIn")
 
-- Twitter  [Twitter](https://www.twitter.com/EfrainHGLive "Twitter")
+- [Twitter](https://www.twitter.com/EfrainHGLive "Twitter")
 
-- Instagram  [Instagram](https://www.instagram.com/efrainhgmx/ "Instagram")
+- [Instagram](https://www.instagram.com/efrainhgmx/ "Instagram")
 
 ##### 🤙 **Send me a message for a work collaboration.**
