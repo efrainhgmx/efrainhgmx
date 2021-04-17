@@ -7,9 +7,8 @@ I enjoy to code modern interfaces focused on a great user experience with better
 
 I never stop learning and sharing to the community!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrainhgmx)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrainhgmx&show_icons=true&theme=radical)
+![Efrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrainhgmx&show_icons=true&theme=onedark)
 
 
 
