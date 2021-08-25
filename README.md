@@ -8,7 +8,7 @@ I enjoy to code modern interfaces focused on a great user experience with better
 I never stop learning and sharing to the community!
 
 
-![Efrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrainhgmx&show_icons=true&theme=cobalt)
+![Efrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=efrainhgmx&show_icons=true&theme=synthwave)
 
 
 
