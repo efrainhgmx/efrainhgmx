@@ -12,7 +12,7 @@ I never stop learning and sharing to the community!
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=efrainhgmx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=efrainhgmx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 #### You can find me on my other social networks.
 > Personal
